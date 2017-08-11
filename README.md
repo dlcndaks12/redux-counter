@@ -4,4 +4,4 @@
 
 ### 프로젝트 개요 ###
 
-Redux를 이용한 counter예제를 만들고 Redux에 
+Redux를 이용한 counter예제를 만들고 Redux와 익숙해진다
